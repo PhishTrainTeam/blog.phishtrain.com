@@ -13,4 +13,4 @@ The PhishTrain blog should be a must read if you are truly interested in cyber s
 
 -Team PhishTrain
 
-![Phishing Statistics](/images/phishing_stats_email_deliverability.jpg)
+
