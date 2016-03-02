@@ -12,3 +12,4 @@ After an employee clicks on a malicious link, a few outcomes are possible. Malwa
 The PhishTrain blog should be a must read if you are truly interested in cyber security and breaches that are seriously affecting the corporate world we live in today. Thank you for reading our welcome blog post and we look forward to the many to come! Happy Phishing!
 
 -Team PhishTrain
+![Phishing Statistics](/images/phishing_stats_email_deliverability.jpg)
