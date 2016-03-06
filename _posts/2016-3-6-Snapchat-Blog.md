@@ -12,5 +12,5 @@ Interestingly enough, the attack did not turn any investors away. Snapchat recei
 While this breach was mostly embarrassing and no extremely sensitive data was leaked that highly affects anyone, it is still terrifying to know that a simple email to a member of HR can take a shot at one of silicon valley’s technology behemoths.
 
 
-Matthew Lewis
-Team PhishTrain
+
+-Team PhishTrain
