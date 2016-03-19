@@ -3,7 +3,7 @@ layout: post
 title: Advance Auto Parts Falls Victim to Phishing Scam
 ---
 
-In mid-March, [Advance Auto Parts](advanceautoparts.com) reported that they had fallen victim to a phishing scam saying "On March 7, 2016, a third party obtained unauthorized access to employee information. This
+In mid-March, [Advance Auto Parts](http://advanceautoparts.com) reported that they had fallen victim to a phishing scam saying "On March 7, 2016, a third party obtained unauthorized access to employee information. This
 access was through a phishing-type attack in which an outside party posing as an Advance employee convinced an
 employee to provide a file containing information about certain individuals who worked for Advance during 2015. The
 employee believed the email request for this file was a legitimate". In their [report](http://oag.ca.gov/system/files/ACID_PRINTERPROOFS.NOTICE%20LETTER_0.pdf), the car part retailer said that they had discovered the breach quickly. After doing so the company reported the attack to the proper cyber crime authorities saying that they had "notified federal law enforcement of this incident, requesting that they
