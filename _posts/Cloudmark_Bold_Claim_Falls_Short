@@ -1,0 +1,14 @@
+---
+layout: post
+title: Cloudmark's Bold Claims Fall Short
+---
+
+  Recently, a San Francisco based cyber security firm named [Cloudmark](http://www.cloudmark.com/en) unveiled a new combat to phishing scams known as [Trident](https://www.cloudmark.com/en/s/products/cloudmark-trident). The company claims that its new tool possesses an algorithm capable of "context analysis, behavioral analysis, and anomalous message detection." Cloudmark boldly claims that its program can "identif[y] and quarantine messages that other solutions miss." While this could possibly be the case for some of its competitors in the spear phishing realm, the claims simply patronize a problem that no software can fully detect on its own. Furthermore, this "easy to use" system is branded to be handled solely by IT professionals which may cause some conflict for some executives to properly analyze and present information captured by the program.
+<br>
+  The main points that Trident targets is the way that spear phishers can fake text-based phishes such as "wire fraud, authentication credentials requests, etc." Unfortunately, in this day in age, hackers are fully capable of moving away from attacks such as these that directly ask for money or other confidential information. Many new threats are coming from emails posing as [social media updates](https://www.advantiscu.org/fraud-prevention/beware-of-phishing-scams-in-social-media.html) or other information coming from our favorite sites to pass time and talk to friends on. While it is an embarrassing fact, many employees are spending work time on these sites when they should be committing to more urgent matters. Wire fraud and other requests are simply not as much of a focus for many phishers as it used to be due to the way that hackers sway with trends and that could result in a higher chance of a victim clicking. Trident does not claim to filter out fraudulent social media links which is an extreme threat as seen by PhishTrain's high click rate on social media oriented phishing tests.
+<br>
+  Finally, the most obvious way to point out Cloudmark's overzealous statement is that in this day in age, no computer can successfully weed out 100% of phishing emails. It truly comes down to the human to make the ultimate decision to click or not. Even Cloudmark says that potential phishing emails are dumped into Trident to be reviewed by IT professionals. Why have the system in the first place when a human still has to interact with the email? Educating the potential victim and training those who are susceptible to phishing emails on how to avoid them is key and far superior to any filters. Spam filters are just an itch for so many hackers can easily be worked around to infiltrate organizations. Cloudmark's Trident does sound promising, but reading between the lines points out flaws in their new unveiling.
+<br>
+<br>
+-Team PhishTrain
+
